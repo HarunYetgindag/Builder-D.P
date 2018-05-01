@@ -1,0 +1,9 @@
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 9\_BuilderDP\bin\Debug\_BuilderDP.exe.config
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 9\_BuilderDP\bin\Debug\_BuilderDP.exe
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 9\_BuilderDP\bin\Debug\_BuilderDP.pdb
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 9\_BuilderDP\obj\Debug\_BuilderDP.csprojResolveAssemblyReference.cache
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 9\_BuilderDP\obj\Debug\_BuilderDP.exe
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 9\_BuilderDP\obj\Debug\_BuilderDP.pdb
+C:\Users\Harun\Desktop\OOP\Hafta 9\_BuilderDP\bin\Debug\_BuilderDP.exe.config
+C:\Users\Harun\Desktop\OOP\Hafta 9\_BuilderDP\obj\Debug\_BuilderDP.exe
+C:\Users\Harun\Desktop\OOP\Hafta 9\_BuilderDP\obj\Debug\_BuilderDP.pdb
